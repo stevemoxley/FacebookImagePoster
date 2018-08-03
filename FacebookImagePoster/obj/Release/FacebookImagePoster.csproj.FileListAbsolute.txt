@@ -1,0 +1,30 @@
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\FacebookImagePoster.exe.config
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\FacebookImagePoster.exe
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\FacebookImagePoster.pdb
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\Facebook.dll
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\Newtonsoft.Json.dll
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\Facebook.xml
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\Newtonsoft.Json.xml
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.csprojResolveAssemblyReference.cache
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.Captions.resources
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.Login.resources
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.Main.resources
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.Properties.Resources.resources
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.csproj.GenerateResource.Cache
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.exe
+C:\Users\sdmfy_000\Documents\Visual Studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.pdb
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\FacebookImagePoster.exe.config
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.exe
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.pdb
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\FacebookImagePoster.exe
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\FacebookImagePoster.pdb
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\Facebook.dll
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\Newtonsoft.Json.dll
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\Facebook.xml
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Release\Newtonsoft.Json.xml
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.csprojResolveAssemblyReference.cache
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.Captions.resources
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.Login.resources
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.Main.resources
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.Properties.Resources.resources
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Release\FacebookImagePoster.csproj.GenerateResource.Cache

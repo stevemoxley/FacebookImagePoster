@@ -1,0 +1,29 @@
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.Captions.resources
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.Main.resources
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.Properties.Resources.resources
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.csproj.GenerateResource.Cache
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\FacebookImagePoster.exe.config
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\FacebookImagePoster.exe
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\FacebookImagePoster.pdb
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\Facebook.dll
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\Facebook.xml
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.csprojResolveAssemblyReference.cache
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.exe
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.pdb
+C:\Users\sdmfy_000\documents\visual studio 2013\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.Login.resources
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\FacebookImagePoster.exe.config
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.exe
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.pdb
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\FacebookImagePoster.exe
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\FacebookImagePoster.pdb
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\Facebook.dll
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\Facebook.xml
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.Captions.resources
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.Login.resources
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.Main.resources
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.Properties.Resources.resources
+D:\Projects\Projects\Projects\FacebookImagePoster\FacebookImagePoster\obj\Debug\FacebookImagePoster.csproj.GenerateResource.Cache
