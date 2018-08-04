@@ -18,7 +18,7 @@ namespace FacebookImagePoster
     public class Facebook
     {
         private FacebookClient _client;
-        private string _appID = "859185440793574";
+        private string _appID = "1104066556420043";
 
         public string AccessToken { get; set; }
 
@@ -34,7 +34,7 @@ namespace FacebookImagePoster
             parameters["client_id"] = _appID;
             parameters["redirect_uri"] = "https://www.facebook.com/connect/login_success.html";
             parameters["response_type"] = "token";
-            parameters["scope"] = "publish_actions,manage_pages,user_photos";
+            parameters["scope"] = "manage_pages,user_photos";
 
             var uri = fb.GetLoginUrl(parameters);
 
@@ -91,7 +91,7 @@ namespace FacebookImagePoster
             Dictionary<string,object> parameters = new Dictionary<string,object>();
             parameters["access_token"] = userToken;
 
-            var result = fb.Get("/me/accounts", parameters);
+            var result = fb.Get("/me", parameters);
             JObject json = JObject.Parse(result.ToString());
             string token = json["data"][0]["access_token"].ToString();
             return token;
